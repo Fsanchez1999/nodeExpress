@@ -1,0 +1,13 @@
+{
+  "name": "crud-jsonserver-gabriel",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "json-server": "json-server --watch db.json --port 5000"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "json-server": "^0.17.4"
+  }
+}

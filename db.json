@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Felipe",
+      "sobrenome": "Sanchez",
+      "email": "felipe@gmail.com",
+      "idade": 26,
+      "telefone": "1199924733 ",
+      "rua": "Rua carlos ferreira de aguiar n88",
+      "bairro": "Centro",
+      "cidade": "Suzano",
+      "estado": "SP",
+      "rg": "111111111111",
+      "cpf": "222222222222"
+    }
+  ]
+}
